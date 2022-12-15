@@ -89,3 +89,6 @@ on the subject of smth - по теме чего либо(касаемо чего
 deliberately - умышленно
 disobeyed - ослушался
 obey - подчиняться
+towards - в направлении, в отношении к чему-нибудь
+don't concern me - не беспокоит меня 
+deprecated - устарел
